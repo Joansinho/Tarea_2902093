@@ -1,2 +1,2 @@
 Archivo.txt N1 sin cambios
-Junto a su primercambio
+Junto a su segundo cambio
